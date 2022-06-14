@@ -13,7 +13,7 @@ function App() {
         <Ccomponent />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload. Тестовое изменение для проверки.
         </p>
         <a
           className="App-link"
